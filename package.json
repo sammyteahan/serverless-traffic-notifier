@@ -1,0 +1,10 @@
+{
+  "name": "serverless-traffic-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-python-requirements": "^4.3.0"
+  }
+}
